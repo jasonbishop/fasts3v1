@@ -29,6 +29,7 @@ Use:
 To use set your aws credentials in your environment:
 
 export AWS_ACCESS_KEY_ID=ABCDEFGHIJKLMNOPQRST
+
 export AWS_SECRET_ACCESS_KEY=ABCDEFGHIJKLMNOPQRSTVUWXYZ
 
 python fasts3upv1.py file bucket
